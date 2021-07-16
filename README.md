@@ -16,6 +16,7 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurengus17&show_icons=true&locale=en&layout=compact" alt="laurengus17" /></p>
 </div>
+<br>
 <div>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=laurengus17&show_icons=true&locale=en" alt="laurengus17" /></p>
 </div>
