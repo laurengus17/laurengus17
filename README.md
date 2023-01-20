@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">FullStack Engineer</h3>
 
-- 📫 How to reach me: **lauren.gustafson17@gmail.com**
 - 😄 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
