@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">FullStack Engineer</h3>
 
-- 😄 Pronouns: she/her
+😄 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
